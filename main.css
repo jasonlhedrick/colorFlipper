@@ -1,3 +1,10 @@
 body {
     background-color: #f1f5f8;
 }
+
+.container {
+    outline: 3px solid black;
+    padding: 15px;
+    background: skyblue;
+    text-align: center;
+}
