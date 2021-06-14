@@ -1,4 +1,4 @@
-const changeBtn = document.getElementById("changeBtn");
+const changeColorBtn = document.getElementById("changeBtn");
 const color = document.querySelector(".color");
 
 changeBtn.addEventListener('click', () => {
